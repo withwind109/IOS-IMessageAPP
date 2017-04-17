@@ -1,3 +1,3 @@
-MDesignPlatform
+IOS-IMessageAPP
 ====
-移动端模板中心设计师平台前端
+基于React native的ios imessage application项目的demo
